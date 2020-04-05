@@ -1,3 +1,3 @@
-Ok thisis my first text file created using terminal in order to be pushed to github using git commands.
+Ok this is my first text file created using terminal in order to be pushed to github using git commands.
 
 @Author: Baha Uson
